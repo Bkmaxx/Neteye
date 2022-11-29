@@ -1,9 +1,12 @@
 # Neteye
 Network Enumeration And Post Exploitation
 <br>
+<h3>git clone https://github.com/Bkmaxx/Neteye/ <h3> 
+<br>
 [Python3 required]
 <br>
-Install all the modules in requirements.txt.
+Install all the modules in requirements.txt
+<h3>pip install -r requiremants.txt</h3>
 
 NetEye is hands on tool for cybersecurity professionals for making network
 enumeration and reconnaissance process quick for vulnerability assessment and
