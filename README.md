@@ -6,7 +6,7 @@ Network Enumeration And Post Exploitation
 [Python3 required]
 <br>
 Install all the modules in requirements.txt
-<h4>pip install -r requiremants.txt</h4>
+<h4>pip install -r requirements.txt</h4>
 
 NetEye is hands on tool for cybersecurity professionals for making network
 enumeration and reconnaissance process quick for vulnerability assessment and
