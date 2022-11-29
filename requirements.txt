@@ -1,0 +1,4 @@
+ftplib
+paramiko
+prettytable
+dnspython
