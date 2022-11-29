@@ -1,5 +1,7 @@
 # Neteye
-Network Enumeration And Post Exploitation
+Network Enumeration And Post Exploitation.
+[Python3 required].
+Install all the modules in requirements.txt.
 
 NetEye is hands on tool for cybersecurity professionals for making network
 enumeration and reconnaissance process quick for vulnerability assessment and
